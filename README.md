@@ -4,9 +4,7 @@ Nhằm mục đích phân loại nội dung cũng như giúp các bạn dễ dà
 
 **Lưu ý:**
 - Mọi hashtag chính phải bắt đầu bằng kttfdi_ để tránh ảnh hưởng của hashtag trên các bài viết bên ngoài nhóm.
-- Bạn có thể dùng nhiều hashtag trong một bài viết nếu liên quan tới chủ đề bạn muốn chia sẻ hoặc để dễ tìm lại bài của mình sau này trong trường hợp bạn muốn cập nhật, sửa đổi. Ví dụ 1 bài post có thể đặt như sau: 
-#kttfdi_news #official #goverment #tenban...
-miễn là phải có hashtag chính.
+- Bạn có thể dùng nhiều hashtag trong một bài viết nếu liên quan tới chủ đề bạn muốn chia sẻ hoặc để dễ tìm lại bài của mình sau này trong trường hợp bạn muốn cập nhật, sửa đổi. Ví dụ 1 bài post có thể đặt như sau:                                      #kttfdi_news #official #goverment #tenban...                                                                                    miễn là phải có hashtag chính.
 
 ## Các hashtag chính (bắt buộc)
 
