@@ -1,35 +1,23 @@
-# Danh sách #hashtag trên J2TEAM Community
+# Danh sách #hashtag trên group KẾ TOÁN - THUẾ DOANH NGHIỆP FDI (kttfdi)
 
-Nhằm mục đích phân loại nội dung cũng như giúp các bạn dễ dàng tìm lại bài viết theo chủ đề sau này, [J2TEAM Community](https://www.facebook.com/groups/j2team.community/) yêu cầu mọi thành viên sử dụng [#hashtag](https://www.facebook.com/help/587836257914341) khi đăng bài trong nhóm.
+Nhằm mục đích phân loại nội dung cũng như giúp các bạn dễ dàng tìm lại bài viết theo chủ đề sau này, kttfdi yêu cầu mọi thành viên sử dụng #hashtag khi đăng bài trong nhóm.
 
 **Lưu ý:**
-- Mọi hashtag phải bắt đầu bằng `j2team_` (giống như namespace) để tránh ảnh hưởng của hashtag trên các bài viết bên ngoài nhóm.
-- Bạn có thể dùng nhiều hashtag trong một bài viết nếu thấy liên quan tới chủ đề bạn muốn chia sẻ.
+- Mọi hashtag chính phải bắt đầu bằng kttfdi_ để tránh ảnh hưởng của hashtag trên các bài viết bên ngoài nhóm.
+- Bạn có thể dùng nhiều hashtag trong một bài viết nếu liên quan tới chủ đề bạn muốn chia sẻ hoặc để dễ tìm lại bài của mình sau này trong trường hợp bạn muốn cập nhật, sửa đổi. Ví dụ 1 bài post có thể đặt như sau: #kttfdi_news #official #goverment #tenban..., miễn là phải có hashtag chính.
 
 ## Các hashtag chính (bắt buộc)
 
-| Hashtag            | Chủ đề, nội dung của bài viết                    |
-|--------------------|--------------------------------------------------|
-| #j2team_question   | Hỏi đáp, thắc mắc                                |
-| #j2team_discussion | Thảo luận về chủ đề nào đó                       |
-| #j2team_share      | Chia sẻ (tài liệu, sách, phần mềm, khóa học,...) |
-| #j2team_relax      | Ảnh, video hoặc nội dung giải trí                |
-| #j2team_tutorial   | Hướng dẫn lập trình hoặc chia sẻ kiến thức       |
-| #j2team_report     | Báo cáo ninja, thành viên hoặc bài viết vi phạm  |
-| #j2team_suggest    | Góp ý cho Ban Quản Trị nhóm                      |
-| #j2team_news       | Tin tức, cập nhật, thông báo từ BQT              |
-| #j2team_job        | Tuyển dụng hoặc yêu cầu trợ giúp có trả tiền     |
-
-## Các hashtag phụ (không bắt buộc)
-
-Đây là các hashtag nhỏ để bổ sung cho các hashtag chính giúp phân loại bài viết ra nhiều chủ đề con.
-
-| Hashtag             | Chủ đề, nội dung của bài viết |
-|---------------------|-------------------------------|
-| #j2team_ebook       | Sách, PDF                     |
-| #j2team_course      | Khóa học trực tuyến           |
-| #j2team_software    | Phần mềm                      |
-| #j2team_hardware    | Phần cứng (trừ câu hỏi)       |
-| #j2team_programming | Lập trình                     |
+| Hashtag            | Chủ đề, nội dung của bài viết                                              |
+|--------------------|----------------------------------------------------------------------------|
+| #kttfdi_question   | Hỏi đáp, thắc mắc                                                          |
+| #kttfdi_discussion | Thảo luận về chủ đề nào đó                                                 |
+| #kttfdi_share      | Chia sẻ (tài liệu, sách, phần mềm, khóa học,...)                           |
+| #kttfdi_tutorial   | Hướng dẫn hoặc chia sẻ kiến thức                                           |
+| #kttfdi_news       | Tin tức, cập nhật văn bản luật, thông tư, nghị định,..., thông báo từ BQT  |
+| #kttfdi_job        | Tuyển dụng hoặc yêu cầu trợ giúp có trả tiền                               |
+| #kttfdi_relax      | Ảnh, video hoặc nội dung giải trí                                          |
+| #kttfdi_report     | Báo cáo hoạt động, thành viên hoặc bài viết vi phạm                        |
+| #kttfdi_suggest    | Góp ý cho Ban Quản Trị nhóm                                                |
 
 (Danh sách hashtag phụ sẽ được cập nhật thêm cho phù hợp với nhóm...)
