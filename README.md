@@ -21,4 +21,4 @@ Nhằm mục đích phân loại nội dung cũng như giúp các bạn dễ dà
 | #kttfdi_suggest    | Góp ý cho Ban Quản Trị nhóm                                                |
 
 (Danh sách hashtag phụ sẽ được cập nhật thêm cho phù hợp với nhóm...)
---Updated on 20191201
+--Updated on 1/12/2019
