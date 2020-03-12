@@ -1,4 +1,4 @@
-# Danh sách #hashtag được sử dụng khi post bài tại group KẾ TOÁN VÀ THUẾ DOANH NGHIỆP FDI - KTTFDI COMMUNITY
+# Danh sách #hashtag được sử dụng khi post bài tại group:  KẾ TOÁN VÀ THUẾ DOANH NGHIỆP FDI - KTTFDI COMMUNITY
 
 Nhằm mục đích phân loại nội dung cũng như giúp các bạn dễ dàng tìm lại bài viết theo chủ đề sau này, kttfdi khuyến khích mọi thành viên sử dụng #hashtag khi đăng bài trong nhóm.
 
