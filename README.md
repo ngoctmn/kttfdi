@@ -1,6 +1,6 @@
-# Danh sách #hashtag trên group KẾ TOÁN - THUẾ DOANH NGHIỆP FDI (kttfdi)
+# Danh sách #hashtag trên group KẾ TOÁN VÀ THUẾ DOANH NGHIỆP FDI - KTTFDI COMMUNITY
 
-Nhằm mục đích phân loại nội dung cũng như giúp các bạn dễ dàng tìm lại bài viết theo chủ đề sau này, kttfdi yêu cầu mọi thành viên sử dụng #hashtag khi đăng bài trong nhóm.
+Nhằm mục đích phân loại nội dung cũng như giúp các bạn dễ dàng tìm lại bài viết theo chủ đề sau này, kttfdi khuyến khích mọi thành viên sử dụng #hashtag khi đăng bài trong nhóm.
 
 **Lưu ý:**
 - Mọi hashtag chính phải bắt đầu bằng kttfdi_ để tránh ảnh hưởng của hashtag trên các bài viết bên ngoài nhóm.
