@@ -1,6 +1,6 @@
 # Quy định sử dụng #hashtag khi post bài tại group: KẾ TOÁN VÀ THUẾ DOANH NGHIỆP FDI - KTTFDI COMMUNITY
 
-Nhằm mục đích phân loại nội dung cũng như giúp các bạn dễ dàng tìm lại bài viết theo chủ đề sau này, kttfdi khuyến khích mọi thành viên sử dụng #hashtag khi đăng bài trong nhóm bằng cách gõ "# + keyword" trong bài viết.
+Nhằm mục đích phân loại nội dung cũng như giúp các bạn dễ dàng tìm lại bài viết theo chủ đề sau này, KTTFDI khuyến khích mọi thành viên sử dụng #hashtag khi đăng bài trong nhóm bằng cách gõ "# + KEYWORD" trong bài viết.
 
 **Lưu ý:**
 - Cú pháp hashtag quy định gồm: HASHTAG CHÍNH (bắt buộc) + HASHTAG PHÂN LOẠI TOPIC (bắt buộc) + HASHTAG PHỤ (nếu cần).      
@@ -21,6 +21,6 @@ Nhằm mục đích phân loại nội dung cũng như giúp các bạn dễ dà
 | #kttfdi_report     | Báo cáo hoạt động, thành viên hoặc bài viết vi phạm                        |
 | #kttfdi_suggest    | Góp ý cho Ban Quản Trị nhóm                                                |
 
-## Hashtag phân loại topic (Ví dụ: thuếtndn_cit). Những hashtag này đã được ghim (pin) bởi admin nhằm giúp các bạn dễ sử dụng.
+## Hashtag phân loại topic (bắt buộc). Ví dụ: thuếtndn_cit. Những hashtag này đã được ghim (pin) bởi admin nhằm giúp các bạn dễ sử dụng.
 
 --Updated on 15/12/2020
