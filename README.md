@@ -1,10 +1,10 @@
-# Danh sách #hashtag được sử dụng khi post bài tại group: KẾ TOÁN VÀ THUẾ DOANH NGHIỆP FDI - KTTFDI COMMUNITY
+# Quy định sử dụng #hashtag khi post bài tại group: KẾ TOÁN VÀ THUẾ DOANH NGHIỆP FDI - KTTFDI COMMUNITY
 
-Nhằm mục đích phân loại nội dung cũng như giúp các bạn dễ dàng tìm lại bài viết theo chủ đề sau này, kttfdi khuyến khích mọi thành viên sử dụng #hashtag khi đăng bài trong nhóm.
+Nhằm mục đích phân loại nội dung cũng như giúp các bạn dễ dàng tìm lại bài viết theo chủ đề sau này, kttfdi khuyến khích mọi thành viên sử dụng #hashtag khi đăng bài trong nhóm bằng cách gõ "# + keyword" trong bài viết.
 
 **Lưu ý:**
+- Cú pháp hashtag quy định gồm: HASHTAG CHÍNH (bắt buộc) + HASHTAG PHÂN LOẠI TOPIC (bắt buộc) + HASHTAG PHỤ (nếu cần). Ví dụ: #kttfdi_news #thuếtndn_cit #official #tenban... 
 - Mọi hashtag chính phải bắt đầu bằng kttfdi_ để tránh ảnh hưởng của hashtag trên các bài viết bên ngoài nhóm.
-- Bạn có thể dùng nhiều hashtag trong một bài viết nếu liên quan tới chủ đề bạn muốn chia sẻ hoặc để dễ tìm lại bài của mình sau này trong trường hợp bạn muốn cập nhật, sửa đổi. Ví dụ 1 bài post có thể đặt như sau:                                      #kttfdi_news #official #goverment #tenban...                                                                                    miễn là phải có hashtag chính.
 
 ## Các hashtag chính (bắt buộc)
 
@@ -20,5 +20,8 @@ Nhằm mục đích phân loại nội dung cũng như giúp các bạn dễ dà
 | #kttfdi_report     | Báo cáo hoạt động, thành viên hoặc bài viết vi phạm                        |
 | #kttfdi_suggest    | Góp ý cho Ban Quản Trị nhóm                                                |
 
-(Danh sách hashtag phụ sẽ được cập nhật thêm cho phù hợp với nhóm...)
---Updated on 1/12/2019
+## Hashtag phân loại topic (Ví dụ: thuếtndn_cit). Những hashtag này đã được ghim (pin) bởi admin nhằm giúp các bạn dễ sử dụng.
+
+Và thêm hashtag phụ nếu thấy cần thiết.
+
+--Updated on 15/12/2020
