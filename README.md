@@ -3,7 +3,8 @@
 Nhằm mục đích phân loại nội dung cũng như giúp các bạn dễ dàng tìm lại bài viết theo chủ đề sau này, kttfdi khuyến khích mọi thành viên sử dụng #hashtag khi đăng bài trong nhóm bằng cách gõ "# + keyword" trong bài viết.
 
 **Lưu ý:**
-- Cú pháp hashtag quy định gồm: HASHTAG CHÍNH (bắt buộc) + HASHTAG PHÂN LOẠI TOPIC (bắt buộc) + HASHTAG PHỤ (nếu cần). Ví dụ: #kttfdi_news #thuếtndn_cit #official #tenban... 
+- Cú pháp hashtag quy định gồm: HASHTAG CHÍNH (bắt buộc) + HASHTAG PHÂN LOẠI TOPIC (bắt buộc) + HASHTAG PHỤ (nếu cần). 
+Ví dụ: #kttfdi_news #thuếtndn_cit #official #tenban... 
 - Mọi hashtag chính phải bắt đầu bằng kttfdi_ để tránh ảnh hưởng của hashtag trên các bài viết bên ngoài nhóm.
 
 ## Các hashtag chính (bắt buộc)
@@ -21,7 +22,5 @@ Nhằm mục đích phân loại nội dung cũng như giúp các bạn dễ dà
 | #kttfdi_suggest    | Góp ý cho Ban Quản Trị nhóm                                                |
 
 ## Hashtag phân loại topic (Ví dụ: thuếtndn_cit). Những hashtag này đã được ghim (pin) bởi admin nhằm giúp các bạn dễ sử dụng.
-
-Và thêm hashtag phụ nếu thấy cần thiết.
 
 --Updated on 15/12/2020
