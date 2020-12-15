@@ -1,4 +1,4 @@
-# Quy định sử dụng #hashtag khi post bài tại group: KẾ TOÁN VÀ THUẾ DOANH NGHIỆP FDI - KTTFDI COMMUNITY
+# Sử dụng #hashtag khi post bài tại KTTFDI
 
 Nhằm mục đích phân loại nội dung cũng như giúp các bạn dễ dàng tìm lại bài viết theo chủ đề sau này, KTTFDI khuyến khích mọi thành viên sử dụng #hashtag khi đăng bài trong nhóm bằng cách gõ "# + KEYWORD" trong bài viết.
 
