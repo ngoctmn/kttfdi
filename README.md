@@ -2,7 +2,7 @@
 
 Nhằm mục đích phân loại nội dung cũng như giúp các bạn dễ dàng tìm lại bài viết theo chủ đề sau này, KTTFDI khuyến khích mọi thành viên sử dụng #hashtag khi đăng bài trong nhóm bằng cách gõ "# + KEYWORD" trong bài viết.
 
-## Cú pháp hashtag quy định gồm: HASHTAG CHÍNH (bắt buộc) + HASHTAG PHÂN LOẠI TOPIC (bắt buộc) + HASHTAG PHỤ (nếu cần).      
+### Cú pháp: HASHTAG CHÍNH (bắt buộc) + HASHTAG PHÂN LOẠI TOPIC (bắt buộc) + HASHTAG PHỤ (nếu cần).      
      Ví dụ: #kttfdi_news #thuếtndn_cit #official #tenban... 
 
 ## Các hashtag chính (bắt buộc)
